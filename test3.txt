@@ -1,3 +1,0 @@
-fork 한 repository에서 작업을 진행했습니다.
-
-test2 branch에서 작업을 진행했습니다
